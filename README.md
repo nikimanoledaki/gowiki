@@ -9,3 +9,5 @@ cd gowiki
 go build wiki.go
 ./wiki
 ```
+
+Then, open your browser.
