@@ -10,4 +10,4 @@ go build wiki.go
 ./wiki
 ```
 
-Then, open your browser.
+Then, open your browser and visit [localhost:6060/view/test](http://localhost:8080/view/test).
